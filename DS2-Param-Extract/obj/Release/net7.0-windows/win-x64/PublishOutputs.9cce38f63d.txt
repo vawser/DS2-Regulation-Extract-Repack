@@ -1,0 +1,2 @@
+C:\Users\Xylozi\Documents\C# Projects\DS2-Param-Extract\DS2-Param-Extract\bin\Release\net7.0-windows\win-x64\DS2-Param-Extract.pdb
+C:\Users\Xylozi\Documents\C# Projects\DS2-Param-Extract\DS2-Param-Extract\bin\Release\net7.0-windows\win-x64\DS2-Param-Extract.exe
